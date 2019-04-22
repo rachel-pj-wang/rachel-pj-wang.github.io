@@ -1,6 +1,6 @@
 h1 {
     text-align: center;
-    color: grey;
+    color: turquoise;
     font-size: 100px;
 }
 
@@ -10,5 +10,5 @@ p {
 
 #secondary {
     color: pink;
-    font-size: 200 px;
+    font-size: 200px;
 }

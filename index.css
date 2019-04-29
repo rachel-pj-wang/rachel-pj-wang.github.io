@@ -1,7 +1,8 @@
 h1 {
     text-align: center;
-    color: turquoise;
+    color: black;
     font-size: 100px;
+    font:100px raleway;
 }
 
 p {
@@ -11,4 +12,15 @@ p {
 #secondary {
     color: pink;
     font-size: 200px;
+}
+
+nav{
+    text-align: center; 
+}
+
+a,
+a:link,
+a:active,
+a:visited{
+    text-decoration: none;
 }
